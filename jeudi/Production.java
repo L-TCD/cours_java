@@ -1,3 +1,3 @@
-public class Production extends Employe {
+public class Production extends Personnel {
 	
 }

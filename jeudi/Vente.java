@@ -1,3 +1,3 @@
-public class Vente extends Employe {
+public class Vente extends Personnel {
 	
 }

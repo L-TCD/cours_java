@@ -1,3 +1,3 @@
-public class Representation extends Employe {
+public class Representation extends Personnel {
 	
 }

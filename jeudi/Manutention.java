@@ -1,3 +1,3 @@
-public class Manutention extends Employe {
+public class Manutention extends Personnel {
 	
 }
